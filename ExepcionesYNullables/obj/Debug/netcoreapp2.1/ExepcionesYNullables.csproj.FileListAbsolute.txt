@@ -1,0 +1,11 @@
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\bin\Debug\netcoreapp2.1\ExepcionesYNullables.deps.json
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\bin\Debug\netcoreapp2.1\ExepcionesYNullables.runtimeconfig.json
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\bin\Debug\netcoreapp2.1\ExepcionesYNullables.runtimeconfig.dev.json
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\bin\Debug\netcoreapp2.1\ExepcionesYNullables.dll
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\bin\Debug\netcoreapp2.1\ExepcionesYNullables.pdb
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\obj\Debug\netcoreapp2.1\ExepcionesYNullables.csproj.CoreCompileInputs.cache
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\obj\Debug\netcoreapp2.1\ExepcionesYNullables.AssemblyInfoInputs.cache
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\obj\Debug\netcoreapp2.1\ExepcionesYNullables.AssemblyInfo.cs
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\obj\Debug\netcoreapp2.1\ExepcionesYNullables.dll
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\obj\Debug\netcoreapp2.1\ExepcionesYNullables.pdb
+C:\VS2017\ProgramacionIntermedia1\ExepcionesYNullables\ExepcionesYNullables\obj\Debug\netcoreapp2.1\ExepcionesYNullables.csprojAssemblyReference.cache
